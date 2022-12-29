@@ -1,2 +1,2 @@
-# CodeChef-
+# CodeChef
 Code Chef problems solved
